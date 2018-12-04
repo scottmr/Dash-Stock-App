@@ -1,5 +1,5 @@
 # Dash-Stock-App
-Simple dash application to demonstrate integrating core components and http requests. This is the project made in conjunction with my dash tutorial series found here:
+Simple dash application to demonstrate integrating core components and http requests. This is the project made in conjunction with my dash tutorial series [I'm an inline-style link](https://www.google.com)
 
 ![](StockAppView.PNG)
 
