@@ -6,3 +6,5 @@ Simple dash application to demonstrate integrating core components and http requ
 # Contents
 * app.py - Front and back end portion of the web application excluding css and static data
 * Assets Folder  - css files and static images
+
+# Installation
