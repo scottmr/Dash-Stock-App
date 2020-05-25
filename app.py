@@ -2,7 +2,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Output, Input, State
-from iexfinance import get_historical_data
+from iexfinance.stocks import get_historical_data
 from dateutil.relativedelta import relativedelta
 import plotly.graph_objs as go
 import datetime
